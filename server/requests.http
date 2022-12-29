@@ -12,7 +12,7 @@ GET http://localhost:5000/api/goals/
 GET http://localhost:5000/api/auth
 
 ### Register User
-POST http://localhost:5000/openai/generateimage
+POST https://openai-image-demo.onrender.com/openai/generateimage
 Content-Type: application/json
 
 {
